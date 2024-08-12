@@ -2,7 +2,7 @@ version="0.12"
 tags={
 	"Translation"
 }
-name="Führerredux - Portuguese Translation Submod"
+name="Führerredux - Russian Translation Submod"
 dependencies= { 
 	"Fuhrerredux - Dev Build" 
 }
